@@ -73,4 +73,14 @@ $ hap -v
 
 **在线查看**
 
+HTTPS形式的应用链接(`https://hapjs.org/app/org.quickapp.union.sample`)二维码：
+
 ![](https://cdn.cnbj1.fds.api.mi-img.com/quickapps/apps/sample/online/sample-crcode-https.png)
+
+<img src="https://cdn.cnbj1.fds.api.mi-img.com/quickapps/apps/sample/online/sample-crcode-https.png" width="300" height="300" alt="">
+
+HAP形式的应用链接(`hap://app/org.quickapp.union.sample`)二维码：
+
+![](https://cdn.cnbj1.fds.api.mi-img.com/quickapps/apps/sample/online/sample-crcode-hap.png)
+
+<img src="https://cdn.cnbj1.fds.api.mi-img.com/quickapps/apps/sample/online/sample-crcode-hap.png" width="300" height="300" alt="">
